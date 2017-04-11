@@ -6,3 +6,8 @@ We will be using the freeCodeCamp Houston Slack ([freeCodeCampHouston](https://f
 
 ### Trello
 Trello is a planning tool to help organize who is working on what. Follow this [link below](https://trello.com/invite/b/8mMPbAcQ/ca1ec2fbe1fa8b040d29e226c772235a/website-project) to get access.
+
+### Mentoring Program
+Interested in having a mentor or mentee? Follow this link to add yourself to the list [link](https://docs.google.com/spreadsheets/d/1uG2T385fjfKd3qQeWIIUhP9yNd5BnfpYn5XvycJJOhA/edit#gid=0)
+
+If you see someone on the list who you think might be a good match, reach out to them and say hello. If you two decide to match, please remember to update the spreadsheet.
